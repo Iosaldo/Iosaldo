@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Iasaldo 
+### Junior Backend Developer | Software Engineering Student
 
-<!--
-**Iosaldo/Iosaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer focused on building clean, scalable, and reliable APIs.  
+I work mainly with **Node.js, Express, MongoDB, PostgreSQL**, and I also build fullstack apps with **Next.js**.
 
-Here are some ideas to get you started:
+I'm currently open to **remote and international opportunities**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Backend:** Node.js, Express, REST APIs, CRUD, JWT, OAuth  
+**Databases:** MongoDB, PostgreSQL  
+**Frontend:** Next.js, React  
+**Tools:** Git, GitHub, Vercel, Render, Postman  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Fullstack Portfolio + Feedback System  
+- Next.js frontend + Node.js/Express backend  
+- REST API for feedback submission and moderation  
+- Admin dashboard  
+- MongoDB Atlas  
+- Deploy: Vercel + Render  
+
+### 🔹 Quick-Post API  
+- CRUD REST API  
+- Layered architecture  
+- Clean code and scalability focus  
+
+### 🔹 Learn English – Aderito (In Progress)  
+- Educational platform for Portuguese speakers  
+- Next.js + Node.js  
+
+---
+
+## 📫 Contact  
+**LinkedIn:http://www.linkedin.com/in/iasaldo-batista
+**Portfolio:https://portifolio-iyosaldo.vercel.app
+**Email:mailto:iyosaldonbk@gmail.com
