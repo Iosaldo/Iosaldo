@@ -17,7 +17,7 @@ As a Backend Developer in the early stages of my career, I focus on more than ju
 
 I'm currently open to remote and international opportunities.
 
-### 🛠 Language and tools
+### 🛠Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js">
