@@ -1,74 +1,44 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Focus on Architecture & Systems Reliability | Software Engineering Student
+
+![profile gif](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](www.linkedin.com/in/iasaldo-batista)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:iyosaldonbk@gmail.com)
+[![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+351986291684)
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/iasaldo-batista" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:iyosaldonbk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/+351986291684" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
+### 👩‍💻 About Me
 
-###
+As a Backend Developer in the early stages of my career, I focus on more than just "making it work." I am committed to learning how to build software that is sustainable, testable, and robust from day one.
 
-<h1 align="center">Focus on Architecture & Systems Reliability | Software Engineering Student</h1>
+I'm currently open to remote and international opportunities.
 
-###
+### 🛠 Language and tools
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 📌 Featured Projects
 
-###
+#### Fullstack Portfolio with Feedback System
 
-<p align="left">As a Backend Developer in the early stages of my career, I focus on more than just "making it work." I am committed to learning how to build software that is sustainable, testable, and robust from day one.</p>
+- Next.js frontend + Node.js/Express backend
+- REST API for feedback submission and moderation
+- Admin dashboard
+- MongoDB Atlas
+- Deploy: Vercel + Render
 
-###
+#### Quick-Post API
 
-<p align="left">I'm currently open to remote and international opportunities.</p>
+- REST API for creating and managing posts
+- Full CRUD implementation
+- Layered architecture and focus on backend best practices
 
-###
+### 📈 Current Study Goals
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="37" alt="nextjs logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="37" alt="express logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="37" alt="postgresql logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="37" alt="mongodb logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">📌 Featured Projects</h3>
-
-###
-<h3 align="left">
-
-<p align="left"> <br>- Next.js frontend + Node.js/Express backend  <br>- REST API for feedback submission and moderation  <br>- Admin dashboard  <br>- MongoDB Atlas  <br>- Deploy: Vercel + Render</h>
-
-###
-
-<h3 align="left">📈 Current Study Goals</h3>
-
-###
-
-<p align="left">- Security, Infrastructure, & Scalability</p>
-
-###
+- Security, Infrastructure, & Scalability
