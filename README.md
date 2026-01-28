@@ -1,4 +1,4 @@
-# Focus on Architecture & Systems Reliability | Software Engineering Student
+# Architecture & Systems Reliability | Software Engineering Student
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" alt="profile gif">
